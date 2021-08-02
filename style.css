@@ -1,0 +1,40 @@
+body {
+	background-color: white; /* alterar cor do fundo */
+	margin:  0; /* retirar margem do corpo */
+
+}
+
+header {
+	background-color: black; /* cor do fundo */
+	color: white;
+	text-align: center;
+	font-family: fantasy;
+	paddin:  30px;
+}
+
+h1, nav, p {
+	color: whitesmoke; /* cor da letra */
+	font-family: fantasy; /* alterar a fonte */
+	text-align: center;
+}
+
+a {
+	margin:  20px;
+	color: white; /* cor da letra */
+	font-family: fantasy; /* alterar a fonte */
+	text-align: center;
+	text-decoration:  none;
+	padding: 20px
+}
+
+a:hover {
+	background-color: white;
+	color:  black;
+	padding: 20px;
+	transition:  all 2s;
+}
+
+body {
+    background-image: url(praia.jpeg);
+	background-size: cover;
+}
