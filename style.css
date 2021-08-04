@@ -5,23 +5,23 @@ body {
 }
 
 header {
-	background-color: black; /* cor do fundo */
-	color: white;
+	background-color: grey; /* cor do fundo */
+	color: black;
 	text-align: center;
-	font-family: fantasy;
+	font-family: OCR A Std, monospace;
 	paddin:  30px;
 }
 
 h1, nav, p {
 	color: whitesmoke; /* cor da letra */
-	font-family: fantasy; /* alterar a fonte */
+	font-family: OCR A Std, monospace; /* alterar a fonte */
 	text-align: center;
 }
 
 a {
 	margin:  20px;
 	color: white; /* cor da letra */
-	font-family: fantasy; /* alterar a fonte */
+	font-family: OCR A Std, monospace; /* alterar a fonte */
 	text-align: center;
 	text-decoration:  none;
 	padding: 20px
